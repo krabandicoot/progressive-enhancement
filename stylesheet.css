@@ -1,0 +1,14 @@
+p{
+    font-family: 'Roboto Slab', serif;
+}
+a {
+    color: rgb(121, 147, 151);
+    text-decoration-thickness: 3px;
+    text-transform: uppercase;
+}
+a:visited {
+    color: rgb(238, 253, 98);
+}
+a:hover{
+    background-color: rgb(4, 17, 19);
+}
